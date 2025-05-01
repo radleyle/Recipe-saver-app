@@ -144,3 +144,13 @@ _(Optional - Include a prototype link if available)_
 
 - **[OPTIONAL]** Use external API (e.g. Spoonacular) to get nutrition info by ingredients
 
+### Updated results
+<div>
+    <a href="https://www.loom.com/share/f7f37d1325f6499893b98c68f57a50eb">
+    </a>
+    <a href="https://www.loom.com/share/f7f37d1325f6499893b98c68f57a50eb">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/f7f37d1325f6499893b98c68f57a50eb-e1b4df55a2a49b42-full-play.gif">
+    </a>
+  </div>
+
+
